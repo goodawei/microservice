@@ -1,0 +1,44 @@
+{
+    "packages": [
+        {
+            "name": "goods/codegen",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/goodawei/goodCodeGen.git",
+                "reference": "8089beafe543966258ad037463ac8c710967f312"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/goodawei/goodCodeGen/zipball/8089beafe543966258ad037463ac8c710967f312",
+                "reference": "8089beafe543966258ad037463ac8c710967f312",
+                "shasum": ""
+            },
+            "time": "2020-12-07T03:59:38+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "source",
+            "autoload": {
+                "psr-4": {
+                    "Goods\\Rpc\\": "src/Goods/Rpc"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "lihongwei",
+                    "email": "lihongwei3@dankegongyu.com"
+                }
+            ],
+            "description": "codegen",
+            "support": {
+                "issues": "https://github.com/goodawei/goodCodeGen/issues",
+                "source": "https://github.com/goodawei/goodCodeGen/tree/main"
+            },
+            "install-path": "../goods/codegen"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

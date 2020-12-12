@@ -1,0 +1,23 @@
+{
+    "name": "panus/php-thrift-swoole",
+    "description": "基于Swoole的Thrift Server实现",
+    "keywords": ["thrift", "rpc", "thrift swoole"],
+    "type": "library",
+    "require": {
+        "ext-swoole": ">=1.9.5",
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SwooleThrift\\": "src/SwooleThrift/",
+            "Thrift\\": "src/Thrift/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "panus",
+            "email": "panus@163.com"
+        }
+    ]
+}

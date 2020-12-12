@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code.nxc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code.nxc/goodCodeGen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code.nxc/goodsContenxt/goodCodeGen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code.nxc/goodsContext/goodCodeGen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code.nxc/laravel-swoole-thrift-rpc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code.nxc/php-thrift-swoole" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goodCodeGen" vcs="Git" />
+  </component>
+</project>

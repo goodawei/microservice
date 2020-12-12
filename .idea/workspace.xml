@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffcd719b-0782-4628-8635-2746f418945f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code.nxc/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="256">
+                <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>danke_rpc_client</find>
+      <find>rpc</find>
+      <find>OrgService</find>
+      <find>rocessor</find>
+      <find>Processor</find>
+      <find>TBufferedTransport</find>
+      <find>TServerSocket</find>
+      <find>swoole</find>
+      <find>$protocolFactory</find>
+      <find>TServerTransport</find>
+      <find>serve</find>
+      <find>swoo</find>
+      <find>TStringFuncFactory</find>
+      <find>TSocket</find>
+      <find>TSwooleTransport</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/code.nxc" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/code.nxc/phpclient/danke-danke-rpc-2-1-0/src/DankeRpc/functions.php" />
+        <option value="$PROJECT_DIR$/code.nxc/phpclient/danke-danke-rpc-2-1-0/composer.json" />
+        <option value="$PROJECT_DIR$/code.nxc/phpclient/danke-danke-rpc-2-1-0/index.php" />
+        <option value="$PROJECT_DIR$/code.nxc/phpclient/rpcv1/composer.json" />
+        <option value="$PROJECT_DIR$/code.nxc/phpclient/rpcv1/app/ServiceApi/User.thrift" />
+        <option value="$PROJECT_DIR$/code.nxc/phpclient/rpcv1/index.php" />
+        <option value="$PROJECT_DIR$/code.nxc/goodServiceSpec/goodAttr/Attr.thrift" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodsCodeGen/composer.json" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodServiceSpec/Attr/Attr.thrift" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodServiceSpec/detail/detail.thrift" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodServiceSpec/attr/attr.thrift" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/src/app/facade/Attr.php" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/composer.json" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/vendor/goods/codegen/composer.json" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodCodeGen/composer.json" />
+        <option value="$PROJECT_DIR$/code.nxc/ordersContenxt/composer.json" />
+        <option value="$PROJECT_DIR$/code.nxc/ordersContenxt/src/app/facade/Api.php" />
+        <option value="$PROJECT_DIR$/thrift_demo/client.php" />
+        <option value="$PROJECT_DIR$/code.nxc/laravel-swoole-thrift-rpc/composer.json" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/Thrift/Server/TSwooleServer.php" />
+        <option value="$PROJECT_DIR$/code.nxc/ordersContenxt/src/app/Facade/Api.php" />
+        <option value="$PROJECT_DIR$/code.nxc/ordersContenxt/Thrift/Transport/TSwooleTransport.php" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/Thrift/Server/TSwooleServerTransport.php" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/Thrift/Transport/TSwooleTransport.php" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/src/app/Facade/Attr.php" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/src/app/Facade/Detail.php" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodServiceSpec/Detail/detail.thrift" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodServiceSpec/Tag/detail.thrift" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodServiceSpec/Tag/service.thrift" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/src/app/Facade/Tag.php" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/server.php" />
+        <option value="$PROJECT_DIR$/code.nxc/ordersContenxt/index.php" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContext/goodCodeGen/composer.json" />
+        <option value="$PROJECT_DIR$/code.nxc/goodsContext/goodService/composer.json" />
+        <option value="$PROJECT_DIR$/code.nxc/ordersContext/composer.json" />
+        <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/code.nxc/.gitignore" />
+        <option value="$PROJECT_DIR$/code.nxc/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code.nxc" />
+      <recent name="$PROJECT_DIR$/code.nxc/ordersContenxt" />
+      <recent name="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService" />
+      <recent name="$PROJECT_DIR$/code.nxc/goodsContenxt/goodsCodeGen" />
+      <recent name="$PROJECT_DIR$/code.nxc/goodServiceSpec/goodAttr" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code.nxc" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/code.nxc/goodsContenxt/goodService/Thrift/Transport" />
+      <recent name="$PROJECT_DIR$/code.nxc/goodsContenxt/goodCodeGen/src" />
+      <recent name="$PROJECT_DIR$/code.nxc/goodsContenxt" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffcd719b-0782-4628-8635-2746f418945f" name="Default Changelist" comment="" />
+      <created>1606450352948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606450352948</updated>
+      <workItem from="1606450354110" duration="1061000" />
+      <workItem from="1606454264203" duration="22879000" />
+      <workItem from="1606570058798" duration="47000" />
+      <workItem from="1606572767601" duration="2271000" />
+      <workItem from="1606662970234" duration="12000" />
+      <workItem from="1607236888448" duration="152000" />
+      <workItem from="1607310369000" duration="4033000" />
+      <workItem from="1607755497757" duration="2137000" />
+    </task>
+    <task id="LOCAL-00001" summary="composer">
+      <created>1607756225264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607756225264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32592000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="821" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.51332396" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="composer" />
+    <option name="LAST_COMMIT_MESSAGE" value="composer" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/Thrift/Transport/TSocket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/Thrift/Transport/TSocketPool.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/Thrift/Transport/TTransport.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift_demo/gen-php/Services/HelloWorld/Server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="31" selection-start-line="31" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="e#394#426#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/Thrift/Server/TSimpleServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/Thrift/Server/TServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1058">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/Thrift/TMultiplexedProcessor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/laravel-swoole-thrift-rpc/app/Server/Rpc/Server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/vendor/goods/codegen/src/Goods/Rpc/Attr/HelloWorldProcessor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodCodeGen/src/Goods/Rpc/Attr/HelloWorldProcessor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding>
+            <element signature="e#171#193#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/php-thrift-swoole/src/Thrift/Server/TServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="69" column="36" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/Thrift/Server/TServerSocket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/laravel-swoole-thrift-rpc/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/php-thrift-swoole/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/Thrift/Server/TSSLServerSocket.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/Thrift/Server/TServerTransport.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/vendor/goods/codegen/src/Goods/Rpc/Attr/HelloWorldProcessor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/php-thrift-swoole/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/Thrift/Server/TSwooleServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/Thrift/Server/TServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/laravel-swoole-thrift-rpc/rpc/server/User.thrift">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/laravel-swoole-thrift-rpc/server.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/vendor/goods/codegen/src/Goods/Rpc/Attr/HelloWorldIf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/php-thrift-swoole/src/SwooleThrift/TSwooleTransport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="198" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="198" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/Thrift/Server/TSwooleServerTransport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="97" column="7" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift_demo/Thrift/Factory/TStringFuncFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/Thrift/Transport/TSwooleTransport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4547">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/vendor/goods/codegen/src/Goods/Rpc/Attr/HelloWorldClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1479" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContenxt/goodCodeGen/src/Goods/Rpc/Detail/getInfoIf.php" />
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContenxt/goodCodeGen/src/Goods/Rpc/Detail/getInfoClient.php" />
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodServiceSpec/Attr/attr.thrift">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodServiceSpec/Tag/service.thrift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="46" column="47" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="47" />
+          <folding>
+            <element signature="e#420#452#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/src/app/Facade/Api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#115#151#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/vendor/goods/codegen/src/Goods/Rpc/Tag/TagServiceProcessor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/vendor/goods/codegen/src/Goods/Rpc/Tag/TagServiceIf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/phpclient/rpcv1/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/laravel-swoole-thrift-rpc/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-71">
+            <caret line="77" column="48" selection-start-line="77" selection-start-column="34" selection-end-line="77" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="32">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/src/app/Facade/Tag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/src/app/Facade/Attr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodCodeGen/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift_demo/client.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/ordersContext/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/goodsContext/goodService/vendor/goods/codegen/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.nxc/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="256">
+            <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

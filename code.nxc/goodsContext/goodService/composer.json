@@ -1,0 +1,17 @@
+{
+    "name": "goods/app",
+    "authors": [
+        {
+            "name": "lihongwei",
+            "email": "bjletaoba@sina.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/app/"
+        }
+    },
+    "require": {
+        "goods/codegen":"dev-main"
+    }
+}
