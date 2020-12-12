@@ -14,15 +14,16 @@ https://github.com/kai-xx/laravel-swoole-thrift-rpc
 https://github.com/fathpanus/php-thrift-swoole
 
 
-    1.
-        mkdir microservices
+
+        mkdir microservice
         
-        git clone https://github.com/goodawei/microservices.git
+        git clone https://github.com/goodawei/microservice.git
+        
 
 step 1:  
     编辑: goodServiceSpec thrift
-    生产代码： cd code.nxc/goodsContext/goodServiceSpec && thrift -r --gen  php:psr4,oop,json,server   --out ../goodCodeGen/src ./Tag/service.thrift
-    提交：github,手动更新 packagist。
+    生产代码： cd code.nxc/goodsContext/goodServiceSpec && thrift -r --gen  php:psr4,oop,json,server   --out ../../../goodCodeGen/src ./Tag/service.thrift
+    提交：cd ./goodCodeGen && git push to github, 手动更新 packagist。
 step 2:    
     goodService服务： composer update
     编辑服务端实现。

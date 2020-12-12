@@ -36,3 +36,8 @@ var_dump($ret);
 $tag = $client->client(TagServiceIf::class);
 $ret = $tag->save('java');
 var_dump($ret);
+
+
+$tag = $client->client(TagServiceIf::class);
+$ret = $tag->get('ddd');
+var_dump($ret);

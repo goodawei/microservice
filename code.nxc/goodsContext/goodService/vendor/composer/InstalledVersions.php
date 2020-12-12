@@ -14,24 +14,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'f0c55a830dd848ee71e8dd6e7dfa32687317431b',
     'name' => 'goods/app',
   ),
   'versions' => 
   array (
     'goods/app' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'f0c55a830dd848ee71e8dd6e7dfa32687317431b',
     ),
     'goods/codegen' => 
     array (
@@ -41,7 +41,7 @@ private static $installed = array (
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '8089beafe543966258ad037463ac8c710967f312',
+      'reference' => 'ff16fbc9e6de6853d20117cba71acbd66e322658',
     ),
   ),
 );

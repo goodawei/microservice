@@ -26,4 +26,13 @@ class Tag implements TagServiceIf
             'data' => $tag
         ]);
     }
+
+    public function get($tag)
+    {
+        return json_encode([
+            'code' => 200,
+            'msg' => 'success',
+            'data' => $tag
+        ]);
+    }
 }
